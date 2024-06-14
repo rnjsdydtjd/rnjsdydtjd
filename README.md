@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
-저를 소개합니다
+## Technologies I Use
 <a href="https://www.instagram.com/hlpn_ys/" target="_blank">
