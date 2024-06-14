@@ -10,3 +10,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
+저를 소개합니다
+<a href="https://www.instagram.com/beautifulnerd__official.kr/" target="_blank">
+
+
+
