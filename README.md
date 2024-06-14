@@ -13,5 +13,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-</a>
-  <a href="https://www.instagram.com/j_naary/">
+<a href="https://www.instagram.com/j_naary/">
+    <img
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
+</div>
