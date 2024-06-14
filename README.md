@@ -11,5 +11,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 
-## Technologies I Use
-<a href="https://www.instagram.com/hlpn_ys/" target="_blank">
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+</a>
+  <a href="https://www.instagram.com/j_naary/">
